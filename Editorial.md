@@ -26,10 +26,10 @@ Case 3: If both countZeros and countOnes are equal, we need to consider both pos
    You have to output the minimum number of operation needed to make the array good.
 
    *Example*
+   
    **Input:**
    
    6
-   
    1 0 1 1 0 0
 
    **Output:**
