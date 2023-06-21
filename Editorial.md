@@ -1,6 +1,62 @@
 # PClub-Task
 https://polygon.codeforces.com/p9NRs9d/Tanay5127/zeroes-and-ones
 
+Problem
+Given an array of N elements, containing only zeros and ones, you can do only following operation, choose an i and j
+(
+0
+≤
+i
+<
+j
+≤
+N
+)
+ and swap the elements at position i and j. Your task is to print minimum number of operations required to make the array *good.
+
+*An array is said to be good if it contains alternate 0 and 1, either of them can come first. If it is not possible print -1.
+
+ **Input:**
+
+   The first line of input contains integer *N*(0<N<2<sup>5</sup>) and followed by an array on N elements containing 0s and 1s.
+
+   **Output:**
+   You have to output the minimum number of operation needed to make the array good.
+
+   *Example*
+   
+   **Input:**
+   
+   6
+   
+   1 0 1 1 0 0
+
+   **Output:**
+   
+   1
+
+   **Input:**
+   
+   6
+   
+   0 0 1 1 0 0
+
+   **Output:**
+   
+   -1
+
+   **Input:**
+   
+   10
+   
+   1 0 1 1 0 0 1 1 0 0
+
+   **Output:**
+   
+   2
+
+
+
 #Editorial
 
 To solve this problem , we can follow the following steps:
