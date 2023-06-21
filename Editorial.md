@@ -18,7 +18,7 @@ N
 
  **Input:**
 
-   The first line of input contains integer *N*(0<N<2<sup>5</sup>) and followed by an array on N elements containing 0s and 1s.
+   The first line of input contains integer *N*(0<N<2*10<sup>5</sup>) and followed by an array on N elements containing 0s and 1s.
 
    **Output:**
    You have to output the minimum number of operation needed to make the array good.
