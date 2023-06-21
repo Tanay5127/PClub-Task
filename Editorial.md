@@ -23,7 +23,8 @@ N
    **Output:**
    You have to output the minimum number of operation needed to make the array good.
 
-   *Example*
+   *Examples*
+   
    
    **Input:**
    
