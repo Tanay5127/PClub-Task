@@ -1,7 +1,7 @@
 # PClub-Task
 https://polygon.codeforces.com/p9NRs9d/Tanay5127/zeroes-and-ones
 
-Problem
+## Problem
 Given an array of N elements, containing only zeros and ones, you can do only following operation, choose an i and j
 (
 0
@@ -57,7 +57,7 @@ N
 
 
 
-#Editorial
+## Editorial
 
 To solve this problem , we can follow the following steps:
 1. First, we have to count the number of zeroes and ones. Let's denote these counts as countZeros and countOnes, respectively.
