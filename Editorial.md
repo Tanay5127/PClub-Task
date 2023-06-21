@@ -30,6 +30,7 @@ Case 3: If both countZeros and countOnes are equal, we need to consider both pos
    **Input:**
    
    6
+   
    1 0 1 1 0 0
 
    **Output:**
