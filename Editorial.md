@@ -21,12 +21,13 @@ N
    The first line of input contains integer *N*(0<N<2*10<sup>5</sup>) and followed by an array on N elements containing 0s and 1s.
 
    **Output:**
+   
    You have to output the minimum number of operation needed to make the array good.
 
    *Examples*
    
    
-   **Input:**
+   **1.Input:**
    
    6
    
@@ -36,7 +37,7 @@ N
    
    1
 
-   **Input:**
+   **2.Input:**
    
    6
    
@@ -46,7 +47,7 @@ N
    
    -1
 
-   **Input:**
+   **3.Input:**
    
    10
    
