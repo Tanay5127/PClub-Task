@@ -75,44 +75,6 @@ Case 3: If both countZeros and countOnes are equal, we need to consider both pos
 
 4. Finally, return swapCount.
 
-   **Input:**
 
-   The first line of input contains integer *N*(0<N<2<sup>5</sup>) and followed by an array on N elements containing 0s and 1s.
-
-   **Output:**
-   You have to output the minimum number of operation needed to make the array good.
-
-   *Example*
-   
-   **Input:**
-   
-   6
-   
-   1 0 1 1 0 0
-
-   **Output:**
-   
-   1
-
-   **Input:**
-   
-   6
-   
-   0 0 1 1 0 0
-
-   **Output:**
-   
-   -1
-
-   **Input:**
-   
-   10
-   
-   1 0 1 1 0 0 1 1 0 0
-
-   **Output:**
-   
-   2
-   
    
    
