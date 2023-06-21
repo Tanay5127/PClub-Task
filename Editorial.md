@@ -28,6 +28,7 @@ Case 3: If both countZeros and countOnes are equal, we need to consider both pos
    *Example*
    **Input**
    6
+   
    1 0 1 1 0 0
 
    **Output**
@@ -35,6 +36,7 @@ Case 3: If both countZeros and countOnes are equal, we need to consider both pos
 
    **Input**
    6
+   
    0 0 1 1 0 0
 
    **Output**
@@ -42,6 +44,7 @@ Case 3: If both countZeros and countOnes are equal, we need to consider both pos
 
    **Input**
    10
+   
    1 0 1 1 0 0 1 1 0 0
 
    **Output**
